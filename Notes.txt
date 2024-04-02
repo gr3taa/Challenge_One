@@ -1,0 +1,7 @@
+README is clear. You can insert mathematical symbols as you would write them in laTeX.
+
+You could split the functions and classes declarations in different header files, organized by their purpose and collected in an include foalder.
+You could have let the user choose the methods runtime by reading it from file.
+
+The code is readable and the output is clear.
+Good implementation of the template functions.
